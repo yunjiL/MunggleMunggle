@@ -81,7 +81,7 @@
 
 ## 📊 ERD 다이어그램
 
-![ERD](/images/ERD.png)
+![ERD](/images/멍글멍글.png)
 
 ## 🎨 와이어프레임
 <img src="/images/와이어프레임.png"  width="400px" height="600px">
